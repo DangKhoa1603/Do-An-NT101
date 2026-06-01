@@ -1,0 +1,12 @@
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\bin\Debug\RSA.exe.config
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\bin\Debug\RSA.exe
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\bin\Debug\RSA.pdb
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.Form1.resources
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.Form2.resources
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.Form3.resources
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.exe
+D:\UIT\HK4\NT101\Đồ án\RSA\RSA\obj\Debug\RSA.pdb
